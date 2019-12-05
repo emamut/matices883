@@ -1,0 +1,19 @@
+{
+  "name": "imagenes-paro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \".\"  --ignore \".git\" --no-open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emamut/imagenes-paro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emamut/imagenes-paro/issues"
+  },
+  "homepage": "https://github.com/emamut/imagenes-paro#readme"
+}
