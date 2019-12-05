@@ -1,5 +1,6 @@
 $(function () {
   $.scrollify({
-    section: "section"
+    section: 'section',
+    scrollbars: false
   });
 })
