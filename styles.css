@@ -8,13 +8,6 @@ section {
   background-attachment: fixed;
 }
 
-.box {
-  background: rgba(0, 0, 0, .8);
-  padding: 5rem;
-  background-size: contain;
-  display: block;
-}
-
 h1 {
   font-family: 'Vollkorn', serif;
   font-size: 6rem;
