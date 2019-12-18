@@ -19,3 +19,24 @@ h1 small {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 2rem;
 }
+
+.text-box {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text-box::after {
+  background-color: #FFF;
+  top: 0;
+  content: '';
+  display: block;
+  height: 5px;
+  left: 6.5%;
+  position: absolute;
+  transform: translate(-50%,0);
+  width: 62px;
+}
+
+.text-box p {
+  padding-top: 1rem;
+}
