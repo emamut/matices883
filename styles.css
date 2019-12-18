@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 section {
   background-position: center center;
   background-size: cover;
@@ -9,4 +13,16 @@ section {
   padding: 5rem;
   background-size: contain;
   display: block;
+}
+
+h1 {
+  font-family: 'Vollkorn', serif;
+  font-size: 6rem;
+  font-weight: bold;
+  line-height: 3rem;
+}
+
+h1 small {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2rem;
 }
