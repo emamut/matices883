@@ -1,5 +1,5 @@
 {
-  "name": "imagenes-paro",
+  "name": "matices883",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emamut/imagenes-paro.git"
+    "url": "git+https://github.com/emamut/matices883.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emamut/imagenes-paro/issues"
+    "url": "https://github.com/emamut/matices883/issues"
   },
-  "homepage": "https://github.com/emamut/imagenes-paro#readme"
+  "homepage": "https://github.com/emamut/matices883#readme"
 }
