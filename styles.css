@@ -3,6 +3,7 @@ body {
 }
 
 section {
+  background-color: #000;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -41,12 +42,14 @@ h3 {
   padding-top: 1rem;
 }
 
-section video {
+section.video iframe {
   min-width: 100%;
   min-height: 100%;
 	object-fit: fill;
 }
 
 @media (max-width: 768px) {
-
+  .text-box {
+    font-size: 1.5rem;
+  }
 }
