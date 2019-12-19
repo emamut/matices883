@@ -42,11 +42,11 @@ h3 {
   padding-top: 1rem;
 }
 
-section.video iframe {
+/* section.video iframe {
   min-width: 100%;
   min-height: 100%;
 	object-fit: fill;
-}
+} */
 
 @media (max-width: 768px) {
   .text-box {
